@@ -1,0 +1,77 @@
+{
+  "book_id": "romantic-english-documentary-love-mortality",
+  "title": "The Silence That Hummed",
+  "tagline": "A curator of forgotten lives confronts the persistent emotional weight of objects and the quiet echoes of love left behind.",
+  "target_words": 66038,
+  "actual_words": 66038,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archaeology of Memory",
+    "The Dissolution of Legacy",
+    "Love as a Physical Archive",
+    "The Poetry of the Ephemeral"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Greasy, Industrial Smear",
+      "words": 5503
+    },
+    {
+      "ch": 2,
+      "title": "The Singular, Resonant Clang",
+      "words": 5503
+    },
+    {
+      "ch": 3,
+      "title": "A Container for the Hidden",
+      "words": 5503
+    },
+    {
+      "ch": 4,
+      "title": "A Decision in Oak and Iron",
+      "words": 5503
+    },
+    {
+      "ch": 5,
+      "title": "The Taste of Static and Vellum",
+      "words": 5503
+    },
+    {
+      "ch": 6,
+      "title": "An Intrusion in the Nave",
+      "words": 5503
+    },
+    {
+      "ch": 7,
+      "title": "The Geometric Wound",
+      "words": 5503
+    },
+    {
+      "ch": 8,
+      "title": "A Pronoun for a Heart",
+      "words": 5503
+    },
+    {
+      "ch": 9,
+      "title": "The Colour of a Thumbed Margin",
+      "words": 5503
+    },
+    {
+      "ch": 10,
+      "title": "The Scar of Veined Marble",
+      "words": 5503
+    },
+    {
+      "ch": 11,
+      "title": "The Silence That Hummed",
+      "words": 5503
+    },
+    {
+      "ch": 12,
+      "title": "The Poetry of Spent Words",
+      "words": 5503
+    }
+  ]
+}
